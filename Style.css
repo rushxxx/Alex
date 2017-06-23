@@ -1,0 +1,16 @@
+body{
+	background:   url(картинки/wood_pattern.png);	
+}
+h1{
+	color:darkgreen;
+	text-align: center;
+		
+}
+.link{
+	color:blue;
+		text-decoration: underline
+}
+.link:hover {
+	color:green;
+		
+}
