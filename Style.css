@@ -1,8 +1,8 @@
 body{
-	background:   url(картинки/wood_pattern.png);	
+	background-image: url(img/wood_pattern.png);
 }
 h1{
-	color:darkgreen;
+	color:blue;
 	text-align: center;
 		
 }
